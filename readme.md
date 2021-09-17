@@ -7,13 +7,13 @@ PC-web：https://2468901709.github.io/searchExpress/#/
 
 浏览器右击 => 检查 => 切换手机端，即可预览
 
-![image-20210917125711102](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20210917125711102.png)
+![image](img/1.png)
 
-![image-20210917125305540](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20210917125305540.png)
+![image](img/2.png)
 
 手机扫二维码，即可在手机上预览
 
-![image-20210917125154483](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20210917125154483.png)
+![image](img/3.png)
 
 ### 实现
 
