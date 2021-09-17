@@ -7,13 +7,9 @@ PC-web：https://2468901709.github.io/searchExpress/#/
 
 浏览器右击 => 检查 => 切换手机端，即可预览
 
-![image](https://github.com/2468901709/searchExpress/blob/main/img/1.png)
+CSDN：https://blog.csdn.net/qq_44947631/article/details/120354376
 
-![image](https://github.com/2468901709/searchExpress/blob/main/img/2.png)
-
-手机扫二维码，即可在手机上预览
-
-![image](https://github.com/2468901709/searchExpress/blob/main/img/3.png)
+手机扫码展示：图片见博客（我github上显示不出来图片）
 
 ### 实现
 
@@ -33,10 +29,11 @@ API 调用：API 简单身份认证调用方法（APPCODE）
 
 请求参数：
 
-| 名称	      类型	       是否必须	      描述          |      |
-| ------------------------------------------------------------ | ---- |
-| no	          STRING	必选	              快递单号 【顺丰请输入单号 : 收件人或寄件人手机号后四位。如123456789:1234】 |      |
-| type	       STRING	可选	              快递公司字母简写：不知道可不填 95%能自动识别，填写查询速度会更快 |      |
+```html
+名称	      类型	        是否必须	                                 描述          
+ no	        STRING	         必选	             快递单号 【顺丰请输入单号 : 收件人或寄件人手机号后四位。如                                                     123456789:1234】
+type	    STRING	         可选	             快递公司字母简写：不知道可不填 95%能自动识别，填写查询速度会更快 
+```
 
 请求示例：
 
