@@ -7,13 +7,13 @@ PC-web：https://2468901709.github.io/searchExpress/#/
 
 浏览器右击 => 检查 => 切换手机端，即可预览
 
-![image](img/1.png)
+![image](https://github.com/2468901709/searchExpress/blob/main/img/1.png)
 
-![image](img/2.png)
+![image](https://github.com/2468901709/searchExpress/blob/main/img/2.png)
 
 手机扫二维码，即可在手机上预览
 
-![image](img/3.png)
+![image](https://github.com/2468901709/searchExpress/blob/main/img/3.png)
 
 ### 实现
 
