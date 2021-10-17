@@ -3,7 +3,7 @@
 
 github：https://github.com/2468901709/searchExpress.git
 
-PC-web：https://2468901709.github.io/searchExpress/#/
+移动端-web：https://2468901709.github.io/searchExpress/#/
 
 浏览器右击 => 检查 => 切换手机端，即可预览
 
